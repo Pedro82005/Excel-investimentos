@@ -1,1 +1,1 @@
-Planilha do excel para projeto da DIO mostrando uma ideia de investimentos 
+Planilha do excel para projeto da DIO mostrando uma ideia de investimentos e meus ensinamentos de excel botando eles em prática de uma maneira mais avançada
